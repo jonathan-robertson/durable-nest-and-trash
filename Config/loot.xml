@@ -1,0 +1,3 @@
+<config>
+    <removeattribute xpath="/lootcontainers/lootcontainer[@name='birdNest' or @name='junk']/@destroy_on_close" />
+</config>
