@@ -1,6 +1,6 @@
 # Durable Nests and Trash
 
-[![🧪 Tested On](https://img.shields.io/badge/🧪%20Tested%20On-A21%20b317-blue.svg)](https://7daystodie.com/) [![📦 Automated Release](https://github.com/jonathan-robertson/durable-nests-and-trash/actions/workflows/release.yml/badge.svg)](https://github.com/jonathan-robertson/durable-nests-and-trash/actions/workflows/release.yml)
+[![🧪 Tested On](https://img.shields.io/badge/🧪%20Tested%20On-1.0%20b313-blue.svg)](https://7daystodie.com/) [![📦 Automated Release](https://github.com/jonathan-robertson/durable-nests-and-trash/actions/workflows/release.yml/badge.svg)](https://github.com/jonathan-robertson/durable-nests-and-trash/actions/workflows/release.yml)
 
 - [Durable Nests and Trash](#durable-nests-and-trash)
   - [Summary](#summary)
